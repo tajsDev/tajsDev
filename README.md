@@ -1,2 +1,5 @@
-[![tajsDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajsDev)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tajsDev)](https://git.io/streak-stats)
+[![tajsDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajsDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=tajsDev&theme=default" />
+</picture>
