@@ -10,10 +10,7 @@ A Software Developer by day ☼ and Game Programmer by night ☾
 Here are my stats !: <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajsDev&show_icons=true&theme=transparent&layout=compact&width=400&height=300)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tajsDev&theme=transparent&width=400&height=300" />
-    <img src="https://streak-stats.demolab.com?user=tajsDev&theme=default&width=400&height=300" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tajsDev&theme=transparent&short_numbers=true&mode=weekly&card_width=400&card_height=300)](https://git.io/streak-stats)
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajsDev&show_icons=true&theme=transparent&width=400&height=300)](https://github.com/anuraghazra/github-readme-stats)
 <br />
